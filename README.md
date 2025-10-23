@@ -2,7 +2,7 @@
 ---
 
 ```markdown
-# ☕ Mini Project Laravel — Sistem Manajemen Kopi
+☕ Mini Project Laravel — 
 
 Proyek ini merupakan aplikasi sederhana berbasis **Laravel** yang dibuat untuk memahami konsep dasar:
 - Routing dan Controller  
@@ -64,7 +64,4 @@ Proyek ini dibuat sebagai latihan dasar untuk memahami struktur dan alur kerja f
 
 ```
 
----
 
-Apakah kamu mau saya tambahkan juga **preview gambar (screenshot)** biar tampil lebih profesional di GitHub?
-```
