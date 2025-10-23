@@ -1,33 +1,6 @@
+Proyek ini merupakan aplikasi web sederhana yang dibuat menggunakan Laravel untuk mempelajari dasar-dasar framework PHP modern. Aplikasi ini memiliki fitur login sederhana, halaman dashboard, profil pengguna, dan halaman pengelolaan data kopi. Data kopi disimpan dalam array pada controller dan ditampilkan menggunakan Blade Template.
 
----
-
-```markdown
-☕ Mini Project Laravel — 
-
-Proyek ini merupakan aplikasi sederhana berbasis **Laravel** yang dibuat untuk memahami konsep dasar:
-- Routing dan Controller  
-- Blade Template (tampilan dinamis)  
-- Passing data dari Controller ke View  
-
----
-
-## 🚀 Fitur Utama
-- 🔐 **Login sederhana** tanpa autentikasi database  
-- 🏠 **Dashboard** untuk menampilkan username setelah login  
-- 👤 **Profile Page** berisi biodata pengguna  
-- ☕ **Pengelolaan Produk** menampilkan daftar kopi dari array di Controller  
-
----
-
-## 🧩 Struktur Halaman
-```
-
-/login         → Form login sederhana
-/dashboard     → Tampilan utama setelah login
-/profile       → Menampilkan biodata pengguna
-/pengelolaan   → Daftar kopi (nama, harga, deskripsi)
-
-````
+Tujuan dari proyek ini adalah memahami konsep dasar routing, controller, dan view dalam Laravel, serta bagaimana data dikirim dari backend ke tampilan dengan cara yang terstruktur dan efisien.
 
 ---
 
