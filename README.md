@@ -10,8 +10,8 @@ Tujuan dari proyek ini adalah memahami konsep dasar routing, controller, dan vie
 ## ⚙️ Cara Menjalankan Proyek
 1. Clone repository:
    ```bash
-   git clone https://github.com/username/nama-repo.git
-   cd nama-repo
+   git clone https://github.com/Ri-cm/-UTS_PWEB_242410102019.git
+   cd -UTS_PWEB_242410102019.git
 
 
 2. Jalankan server Laravel:
